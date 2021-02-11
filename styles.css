@@ -16,7 +16,13 @@ body{
     margin: 0;
     padding: 20px;
 }
+#logo{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
 
+}
 .container {
     background-color: rgb(245, 222, 179, 0.6);
     border-radius: 10px;

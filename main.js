@@ -25,7 +25,7 @@
 //     // } else {
 //     //     address = data.address
 //     // }
-champText.innerHTML = "You chose: " + data.results[i].name.toUpperCase();
+champText.innerHTML = "You chose: " +  data.results[i].name.toUpperCase();
     
 }
 
